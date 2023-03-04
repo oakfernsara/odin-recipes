@@ -1,0 +1,14 @@
+body {
+    background-color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.homelink > a {
+    font-size: 20px;
+    color: red;
+    background-color: white;
+}
